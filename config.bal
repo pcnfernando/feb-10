@@ -1,1 +1,1 @@
-configurable string abc = "ABC";
+configurable int abc = 123;
