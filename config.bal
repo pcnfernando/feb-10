@@ -1,0 +1,1 @@
+configurable string abc = "ABC";
